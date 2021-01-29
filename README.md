@@ -9,9 +9,9 @@
 ```markdown
 Syntax highlighted code block
 
-# Python
-## Pycharm
-### Java
+* Python
+* Pycharm
+* Java
 
 
 
