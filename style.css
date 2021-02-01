@@ -1,6 +1,3 @@
-<head> 
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 20px;
-<head>
-
+@font-face
+src: url(fonts/SecularOne-Regular.ttf);
+font-family: nos;
